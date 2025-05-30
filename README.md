@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinwendu</h1>
 <h3 align="center">An enthusiastic Data Analyst</h3>
 
-[Chinwendu Peace](www.linkedin.com/in/chinwendu-peace) is a skillful Data Analyst. With know-how varying from Data Cleaning & Wrangling, Exploratory & Statistical Analysis, and Reporting & Interactive Dashboards that tell a clear story and enable strategic decision-making, I can help save your company money and time.
+[Chinwendu Peace](www.linkedin.com/in/chinwendu-peace-303974281) is a skillful Data Analyst. With know-how varying from Data Cleaning & Wrangling, Exploratory & Statistical Analysis, and Reporting & Interactive Dashboards that tell a clear story and enable strategic decision-making, I can help save your company money and time.
 
 I help businesses solve complex problems and identify growth opportunities by leveraging data. My work focuses on providing clear, actionable insights through meticulous analysis and compelling reporting.
 
